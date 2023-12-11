@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "information_security_lab1_cs", "information_security_lab1_cs.csproj", "{21FBCF8F-578C-41DF-9438-16D3DF11D909}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21FBCF8F-578C-41DF-9438-16D3DF11D909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21FBCF8F-578C-41DF-9438-16D3DF11D909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21FBCF8F-578C-41DF-9438-16D3DF11D909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21FBCF8F-578C-41DF-9438-16D3DF11D909}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD41D7A8-3496-421E-BA7C-6BE2E0F406E0}
+	EndGlobalSection
+EndGlobal

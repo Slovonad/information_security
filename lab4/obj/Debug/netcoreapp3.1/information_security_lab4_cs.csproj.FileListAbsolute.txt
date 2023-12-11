@@ -1,0 +1,16 @@
+C:\Users\Дмитрий\source\repos\information_security_lab4_cs\bin\Debug\netcoreapp3.1\information_security_lab4_cs.exe
+C:\Users\Дмитрий\source\repos\information_security_lab4_cs\bin\Debug\netcoreapp3.1\information_security_lab4_cs.deps.json
+C:\Users\Дмитрий\source\repos\information_security_lab4_cs\bin\Debug\netcoreapp3.1\information_security_lab4_cs.runtimeconfig.json
+C:\Users\Дмитрий\source\repos\information_security_lab4_cs\bin\Debug\netcoreapp3.1\information_security_lab4_cs.runtimeconfig.dev.json
+C:\Users\Дмитрий\source\repos\information_security_lab4_cs\bin\Debug\netcoreapp3.1\information_security_lab4_cs.dll
+C:\Users\Дмитрий\source\repos\information_security_lab4_cs\bin\Debug\netcoreapp3.1\information_security_lab4_cs.pdb
+C:\Users\Дмитрий\source\repos\information_security_lab4_cs\obj\Debug\netcoreapp3.1\information_security_lab4_cs.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\information_security_lab4_cs\obj\Debug\netcoreapp3.1\information_security_lab4_cs.Form1.resources
+C:\Users\Дмитрий\source\repos\information_security_lab4_cs\obj\Debug\netcoreapp3.1\information_security_lab4_cs.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\information_security_lab4_cs\obj\Debug\netcoreapp3.1\information_security_lab4_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\source\repos\information_security_lab4_cs\obj\Debug\netcoreapp3.1\information_security_lab4_cs.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\source\repos\information_security_lab4_cs\obj\Debug\netcoreapp3.1\information_security_lab4_cs.AssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\information_security_lab4_cs\obj\Debug\netcoreapp3.1\information_security_lab4_cs.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\information_security_lab4_cs\obj\Debug\netcoreapp3.1\information_security_lab4_cs.dll
+C:\Users\Дмитрий\source\repos\information_security_lab4_cs\obj\Debug\netcoreapp3.1\information_security_lab4_cs.pdb
+C:\Users\Дмитрий\source\repos\information_security_lab4_cs\obj\Debug\netcoreapp3.1\information_security_lab4_cs.genruntimeconfig.cache
